@@ -20,7 +20,7 @@ export const SLIDES: SlideData[] = [
     takeaway: "Mastering Git and GitHub is the single most valuable foundational skill for any modern software engineer.",
     visualPlaceholderText: "VISUAL AREA • Temporary Greeting Hero (Cinematic Motion Placeholder)",
     speakerNotes: {
-      whatToSay: "Good morning everyone. Today we are going to explore Git and GitHub — from writing your very first lines of code to collaborating with teams, reviewing pull requests, and shipping real software.",
+      whatToSay: "Good Afternoon everyone. Today we are going to explore Git and GitHub — from writing your very first lines of code to collaborating with teams, reviewing pull requests, and shipping real software.",
       simpleExplanation: "Think of today as learning the flight controls for team software engineering.",
       realWorldExample: "Every top tech company and open-source project in the world runs on this exact workflow every single day.",
       technicalDetail: "We cover distributed version control, the Git object model, remote synchronization, and collaborative governance.",
