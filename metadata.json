@@ -1,0 +1,6 @@
+{
+  "name": "GitHub: From Code to Collaboration",
+  "description": "From Local Code to Team Collaboration, Automation & Deployment — concise, visual presentation across 17 slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
