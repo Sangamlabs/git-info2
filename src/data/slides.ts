@@ -5,7 +5,7 @@ export const SLIDES: SlideData[] = [
   {
     id: 1,
     numberStr: "01",
-    title: "Good Morning Everyone",
+    title: "Good Afternoon Everyone",
     subtitle: "Today we're going to explore GitHub — from writing code to collaborating, reviewing and shipping software.",
     topic: "GITHUB: FROM CODE TO COLLABORATION",
     badge: "Welcome",
