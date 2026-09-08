@@ -30,7 +30,7 @@ export const SLIDE_VISUALS: Record<number, SlideVisualMeta> = {
   1: {
     slideId: 1,
     slug: 'welcome',
-    title: 'Good Morning Everyone',
+    title: 'Good Afternoon Everyone',
     imageSrc: welcomeImg,
     conceptAlt: 'Cinematic developer workstation journey from code to global collaboration',
     caption: 'The Modern Software Development Journey: Code, Collaboration, & Cloud Deployment'
